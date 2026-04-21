@@ -17,15 +17,4 @@ GALICIA-1967-2020/
 ├── code/
 │   ├── 01_data_preparation/
 │   │   └── preparation.m
-│   ├── 02_calibration/
 │   ├── 03_wedge_computation/
-│   ├── 04_simulations/
-│   └── 99_utils/
-├── dynare/
-│   ├── models/
-│   ├── steady_states/
-│   └── outputs/
-└── results/
-    ├── figures/
-    ├── tables/
-    └── logs/
