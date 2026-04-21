@@ -13,8 +13,10 @@ GALICIA-1967-2020/
 │   ├── raw/
 │   │   └── datBDMORES.mat
 │   └── processed/
+│       └── README.md
 ├── code/
 │   ├── 01_data_preparation/
+│   │   └── preparation.m
 │   ├── 02_calibration/
 │   ├── 03_wedge_computation/
 │   ├── 04_simulations/
