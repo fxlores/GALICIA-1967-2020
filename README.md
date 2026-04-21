@@ -21,9 +21,9 @@ GALICIA-1967-2020/
 │   ├── 01_data_preparation/
 │   │   ├── preparation.m
 │   │   └── README.md
-│   ├── 03_wedge_computation/
+│   ├── 02_wedge_computation/
 │   │   └── README.md
-│   ├── 04_simulations/
+│   ├── 03_simulations/
 │   │   └── README.md
 │   └── 99_utils/
 │       └── README.md
