@@ -11,10 +11,19 @@ GALICIA-1967-2020/
 ├── .gitignore
 ├── data/
 │   ├── raw/
-│   │   └── datBDMORES.mat
+│   │   ├── datBDMORES.mat
+│   │   └── README.md
 │   └── processed/
+│       ├── PathsGalicia
+│       ├── EEGalicia
 │       └── README.md
 ├── code/
 │   ├── 01_data_preparation/
-│   │   └── preparation.m
+│   │   ├── preparation.m
+│   │   └── README.md
 │   ├── 03_wedge_computation/
+│   │   └── README.md
+│   ├── 04_simulations/
+│   │   └── README.md
+│   └── 99_utils/
+│       └── README.md
