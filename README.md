@@ -24,6 +24,4 @@ GALICIA-1967-2020/
 │   ├── 02_wedge_computation/
 │   │   └── README.md
 │   ├── 03_simulations/
-│   │   └── README.md
-│   └── 99_utils/
 │       └── README.md
