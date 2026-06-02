@@ -1,4 +1,4 @@
-# Wedge computation
+# Wedges computation
 
 This folder contains the files used to recover the wedges from the model:
 
